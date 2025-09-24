@@ -21,7 +21,8 @@ Greenhat Industries exists to turn dreams into business, fund the gear that fuel
 
 ## Who’s Running This
 
-A father, a veteran, and a guy who likes to push buttons and see what happens.  
+A father, combat veteran, professional software tester, and guy who likes to push buttons to see see what happens.  
+
 If it looks fun, I probably tried it.  
 If it looks hard, I probably had to do it.  
 If it’s interactive, I probably designed a media setup around it.
